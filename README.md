@@ -5,7 +5,7 @@ A low-poly Telegram theme based on [@roundedhexagon](http://roundedhexagon.devia
 ![Theme's screenshot](screenshot_ponsfrilus_telegram_theme.png)
 
 # Donwload theme
-You can download theme from github: 
+You can download theme from github: https://github.com/ponsfrilus/ponsfrilus.tdesktop-theme/raw/master/ponsfrilus.tdesktop-theme
 
 ## Notes
 * HowTo: http://telegra.ph/Create-Telegram-Theme-01-12
