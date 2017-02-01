@@ -293,8 +293,8 @@ historyPeer8NameFg: #ce671b;                       // One more orange?!
 historyPeer8UserpicBg: #faa774;
 historyPeerUserpicFg: COLOR_WHITE;
 
-historyScrollBarBg: #15cd7d7a;                     // Scrollbar (history view) background
-historyScrollBarBgOver: #15cd7dbc;                 // Scrollbar (history view) background (hover)
+historyScrollBarBg: #9876AD7a;                     // Scrollbar (history view) background
+historyScrollBarBgOver: #9876ADbc;                 // Scrollbar (history view) background (hover)
 historyScrollBg: #6f72724d;                        // Scrollbar (history view) current position background
 historyScrollBgOver: #6f727280;                    // Scrollbar (history view) current position background (hover)
 
